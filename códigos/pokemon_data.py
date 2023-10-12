@@ -63,7 +63,7 @@ df_sprite_3d['name'] = df_sprite_3d['name'].replace("farfetch'd", 'farfetchd')
 ############ Pokemon cries #############
 ########################################
 
-### The Pokémon cries used in this project are sourced from https://www.sounds-resource.com/3ds/pokemonultrasunultramoon/sound/9547/
+### The Pokémon cries used in this project are sourced from https://www.smogon.com/forums/threads/pok%C3%A9mon-xy-remastered-cries.3512615/
 REPO_OWNER = "mhirokitomida"
 REPO_NAME = "pokedash"
 BRANCH_NAME = "main"
