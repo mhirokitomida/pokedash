@@ -1,4 +1,4 @@
-# Pokedash utilizando a pokeapi e extraindo sprites 3D do arquivo .MOD
+# Pokedash
 
 <img src="https://github.com/mhirokitomida/imagens/blob/main/pokeball.png?raw=true" width="200" />
 
